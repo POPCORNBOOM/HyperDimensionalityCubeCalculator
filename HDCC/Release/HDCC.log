@@ -1,0 +1,6 @@
+﻿  HDCC.cpp
+e:\projects\hdcc\hdcc\hdcc\hdcc.cpp(15): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  正在生成代码
+  All 14 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  HDCC.vcxproj -> E:\Projects\HDCC\HDCC\Release\HDCC.exe
