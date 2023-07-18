@@ -1,6 +1,8 @@
 # HyperDimensionalityCubeCalculator
 A calculator that can sum the low HDC number of high HDC
 
+这是控制台版本，数字用int存的，容易爆长度，可以用[WPF版](https://github.com/POPCORNBOOM/HighDimensionalCubeCalculator)
+
 ---
 
 * 定义
